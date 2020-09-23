@@ -1,6 +1,6 @@
 @font-face {
     font-family: mechanik;
-    src: url(./fonts/mechanik-Regular.ttf);
+    src: url(https://philcjacob.github.io/fonts/mechanik-Regular.ttf);
 }
 html, body {
     font-family: mechanik, sans-serif; /* Override Bootstrap .font-family for custom theme */
