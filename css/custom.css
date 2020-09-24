@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: disparador;
-    src: url(./fonts/disparador-stencil-Regular.ttf);
+    src: url(./fonts/Disparador-Stencil-Regular.ttf);
 }
 
 html, body {
@@ -14,7 +14,7 @@ html, body {
     -webkit-text-size-adjust: 100%;
 }
 
-a.navbar-brand {
+.navbar-brand {
     font-family: disparador, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
