@@ -2,6 +2,12 @@
     font-family: mechanik;
     src: url(./fonts/mechanik-Regular.ttf);
 }
+
+@font-face {
+    font-family: disparador;
+    src: url(./fonts/disparador-stencil-Regular.ttf);
+}
+
 html, body {
     font-family: mechanik, sans-serif; /* Override Bootstrap .font-family for custom theme */
     -ms-text-size-adjust: 100%;
